@@ -1,6 +1,6 @@
 "use client";
 
-import FloatingTestimonials from "../components/FloatingTestimonials";
+import FloatingTestimonials from "../components/FloatingTestimonials"; 
 
 const STATS = [
   { number: "90+", label: "Universities" },
